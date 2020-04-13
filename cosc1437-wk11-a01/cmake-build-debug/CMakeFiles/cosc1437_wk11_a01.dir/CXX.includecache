@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jsweb/OneDrive/_cpp_repos/cosc1437-wk11-a01/GameSystem.h
+
+C:/Users/jsweb/OneDrive/_cpp_repos/cosc1437-wk11-a01/character.h
+GameSystem.h
+C:/Users/jsweb/OneDrive/_cpp_repos/cosc1437-wk11-a01/GameSystem.h
+
+C:/Users/jsweb/OneDrive/_cpp_repos/cosc1437-wk11-a01/main.cpp
+GameSystem.h
+C:/Users/jsweb/OneDrive/_cpp_repos/cosc1437-wk11-a01/GameSystem.h
+character.h
+C:/Users/jsweb/OneDrive/_cpp_repos/cosc1437-wk11-a01/character.h
+iostream
+-
+cstring
+-
+string
+-
+

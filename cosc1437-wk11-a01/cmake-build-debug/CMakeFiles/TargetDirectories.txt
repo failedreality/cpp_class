@@ -1,0 +1,3 @@
+C:/Users/jsweb/OneDrive/_cpp_repos/cosc1437-wk11-a01/cmake-build-debug/CMakeFiles/cosc1437_wk11_a01.dir
+C:/Users/jsweb/OneDrive/_cpp_repos/cosc1437-wk11-a01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jsweb/OneDrive/_cpp_repos/cosc1437-wk11-a01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
